@@ -15,6 +15,7 @@
 		DDC9267E236F130C00B68721 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDC9267C236F130C00B68721 /* LaunchScreen.storyboard */; };
 		DDC92689236F130C00B68721 /* Swift____Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC92688236F130C00B68721 /* Swift____Tests.swift */; };
 		DDC92694236F130C00B68721 /* Swift____UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC92693236F130C00B68721 /* Swift____UITests.swift */; };
+		DDC926A4236FA89200B68721 /* WaterLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC926A3236FA89200B68721 /* WaterLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DDC9268F236F130C00B68721 /* Swift版瀑布流UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift版瀑布流UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDC92693236F130C00B68721 /* Swift____UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Swift____UITests.swift"; sourceTree = "<group>"; };
 		DDC92695236F130D00B68721 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDC926A3236FA89200B68721 /* WaterLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				DDC92671236F130C00B68721 /* AppDelegate.swift */,
 				DDC92673236F130C00B68721 /* SceneDelegate.swift */,
 				DDC92675236F130C00B68721 /* ViewController.swift */,
+				DDC926A3236FA89200B68721 /* WaterLayout.swift */,
 				DDC92677236F130C00B68721 /* Main.storyboard */,
 				DDC9267A236F130C00B68721 /* Assets.xcassets */,
 				DDC9267C236F130C00B68721 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDC92676236F130C00B68721 /* ViewController.swift in Sources */,
+				DDC926A4236FA89200B68721 /* WaterLayout.swift in Sources */,
 				DDC92672236F130C00B68721 /* AppDelegate.swift in Sources */,
 				DDC92674236F130C00B68721 /* SceneDelegate.swift in Sources */,
 			);
